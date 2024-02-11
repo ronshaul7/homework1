@@ -34,7 +34,6 @@ header h1{
 section img{
     width: 300px; 
     height: 200px; 
-    margin-right: 16px;
 }
 div{
     flex-direction: column;
